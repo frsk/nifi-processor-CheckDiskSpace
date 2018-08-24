@@ -1,4 +1,4 @@
-# nifi-processor-FreeDiskSpace
+# nifi-processor-CheckDiskSpace
 A NiFi processor that monitors the space available and stops processing (enabling back pressure) when available space is
 below the threshold.
 
